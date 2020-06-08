@@ -244,7 +244,6 @@
 // 02. New participation
 // ---------------------
 
-.debate-new,
 .proposal-new,
 .budget-investment-form,
 .document-form,
@@ -287,13 +286,6 @@
       content: "l ";
       font-family: "icons" !important;
     }
-  }
-}
-
-.debate-new {
-
-  .recommendations li::before {
-    color: $debates;
   }
 }
 
